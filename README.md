@@ -1,1 +1,0 @@
-# ValeAnalize V25\nBranding-safe build: complete guitar-pick + guitar neck/headstock + blue waveform header and main artwork, all embedded in index.html. Main artwork has a large mobile safe frame. Added explicit Electric Guitar / Acoustic Guitar preset-family selection. Existing GP-50 analysis engine retained.
